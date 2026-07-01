@@ -25,7 +25,7 @@
 ## ▶️ اجرا
 
 ```bash id="lqjlwm"
-python IR NETLIFY SCANNER.py
+python Eagle SCANNER.py
 ```
 
 ---
@@ -51,7 +51,7 @@ scan_results.txt
 
 ## 📢 کانال تلگرام
 
-[@IR_NETLIFY](https://t.me/IR_NETLIFY)
+[@Eagle_amir1](https://t.me/Eaglevip_VPN)
 
 ---
 
@@ -64,7 +64,6 @@ scan_results.txt
 
 ## 👨‍💻 Copyright
 
-Made with ❤️ by **IR_NETLIFY**
+Made with ❤️ by **Eagle*
 
-🔗 GitHub: https://github.com/IR-NETLIFY
-📡 Telegram: https://t.me/IR_NETLIFY
+📡 Telegram: https://t.me/Eaglevip_VPN
